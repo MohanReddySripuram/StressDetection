@@ -1,0 +1,62 @@
+body {
+  background-image: url("static/images/image1.jpg"); /* Replace 'background-image.jpg' with your own image file */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgb(255, 255, 255);
+  font-family: "Libre Baskerville", serif;
+}
+body {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 36px;
+  margin-top: 10px;
+}
+
+textarea {
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 200px;
+  width: 900px;
+}
+input[type="submit"] {
+  background-color: #0c97ed;
+  color: white;
+  border-radius: 20px;
+  font-size: 40px;
+  width: 500px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 20px;
+}
+body {
+  background-image: url("background-image.jpg"); /* Replace 'background-image.jpg' with the path to your background image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Add additional CSS styles as needed */
+h2 {
+  font-size: xxx-large;
+  color: rgb(54, 206, 49);
+}
+h1 {
+  font-size: 50px;
+}
+label {
+  font-size: x-large;
+  color: white;
+}
+p {
+  color: white;
+  size: 50px;
+}
